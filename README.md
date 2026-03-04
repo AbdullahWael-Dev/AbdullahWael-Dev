@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Laravel+%7C+PHP+%7C+MySQL+Specialist;Clean+Code+%7C+OOP+%7C+SOLID+Principles;RESTful+API+Developer)](https://git.io/typing-svg)
 
-📍 Cairo, Egypt &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Computer Science Student &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to Work
+📍 Cairo, Egypt &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Computer Science Student &nbsp;&nbsp;
 
 </div>
 
